@@ -18,7 +18,6 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://mitanshu21.github.io/react-calculator/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#dfe9f5",
